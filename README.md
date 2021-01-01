@@ -7,3 +7,8 @@
 # sample_app
 
 - https://whispering-sands-03223.herokuapp.com/
+
+
+    email: example@railstutorial.org
+    
+    password: foobar
